@@ -9,7 +9,7 @@ Termux-ohmyzsh implements termus-style and [zsh-syntax-highlighting](https://git
 
 **This repo requires Termux official repo. [INSTALL TERMUX FROM PLAY-STORE TO WORK WITHOUT ANY ERROR]you may need to add Termux app to your proxy list in order to gain access to Termux official repository.**
 
-#Installation:
+# Installation:
 ```shell
 apt update
 apt upgrade
