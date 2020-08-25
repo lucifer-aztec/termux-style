@@ -14,7 +14,7 @@ Termux-ohmyzsh implements termus-style and [zsh-syntax-highlighting](https://git
 apt update
 apt upgrade
 apt install curl
-sh -c "$(curl -fsSL https://github.com/mrjarvisofficial/termux-style/raw/master/install.sh)
+sh -c "$(curl -fsSL https://github.com/mrjarvisofficial/termux-style/raw/master/install.sh)"
 ```
 Choose any color and font you want or just enter 0 in both font and color and restart your termux app
 To get Tango color scheme + agnoster termux-style theme + Ubuntu font:
